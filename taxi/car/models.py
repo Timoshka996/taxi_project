@@ -12,29 +12,3 @@ class Join(models.Model):
 
     def __str__(self):
         return f"{self.car_tip}, {self.car_type}, {self.car_size}"
-
-    
-
-    
-
-    
-
-    
-
-    
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-    
-
-    
-
-    
