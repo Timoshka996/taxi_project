@@ -14,3 +14,5 @@ class Join(models.Model):
         return f"{self.car_tip}, {self.car_type}, {self.car_size}"
 
     
+
+    
